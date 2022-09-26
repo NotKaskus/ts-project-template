@@ -7,7 +7,7 @@
 # @NotKaskus/project-template
 
 
-<p><b>Template repositories for my JavaScript projects.</p>
+<p><b>Template repositories for my TypeScript projects.</p>
 
 [![GitHub](https://img.shields.io/github/license/NotKaskus/project-template)](https://github.com/NotKaskus/project-template/blob/master/LICENSE.md)
 
