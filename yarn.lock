@@ -441,12 +441,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@sapphire/prettier-config@npm:1.4.4":
-  version: 1.4.4
-  resolution: "@sapphire/prettier-config@npm:1.4.4"
+"@sapphire/prettier-config@npm:2.0.0":
+  version: 2.0.0
+  resolution: "@sapphire/prettier-config@npm:2.0.0"
   dependencies:
-    prettier: ^2.7.1
-  checksum: bf0f37de120b72b054da8b90ddf08c23210c8b01e42f66c4a6833d55ac78c02e3df7f9af6d35f2574e9c9f5c8b131625730a60bcac055b211789b52101a8921e
+    prettier: ^3.0.0
+  checksum: 5e7aa2f3c29587d8bd409d66e75ffa5ff6d6b98df6bdfb82dedb6d43b6134a5ba764d95dfc6b252b92bb4a56f125b22b83737449ee8dbf1d2ff41b0f1b6e87f7
   languageName: node
   linkType: hard
 
@@ -3957,6 +3957,15 @@ __metadata:
   languageName: node
   linkType: hard
 
+"prettier@npm:^3.0.0":
+  version: 3.6.2
+  resolution: "prettier@npm:3.6.2"
+  bin:
+    prettier: bin/prettier.cjs
+  checksum: 0206f5f437892e8858f298af8850bf9d0ef1c22e21107a213ba56bfb9c2387a2020bfda244a20161d8e3dad40c6b04101609a55d370dece53d0a31893b64f861
+  languageName: node
+  linkType: hard
+
 "pretty-quick@npm:^3.1.3":
   version: 3.1.3
   resolution: "pretty-quick@npm:3.1.3"
@@ -3989,7 +3998,7 @@ __metadata:
     "@commitlint/cli": 16.3.0
     "@commitlint/config-conventional": 16.2.4
     "@sapphire/eslint-config": ^4.3.8
-    "@sapphire/prettier-config": 1.4.4
+    "@sapphire/prettier-config": 2.0.0
     "@sapphire/ts-config": ^3.3.4
     "@types/node": ^17.0.31
     "@typescript-eslint/eslint-plugin": ^5.38.0
