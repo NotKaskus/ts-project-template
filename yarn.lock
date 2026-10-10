@@ -4014,7 +4014,16 @@ __metadata:
   languageName: node
   linkType: hard
 
-"prettier@npm:2.7.1, prettier@npm:^2.7.1":
+"prettier@npm:3.9.10":
+  version: 3.9.10
+  resolution: "prettier@npm:3.9.10"
+  bin:
+    prettier: bin/prettier.cjs
+  checksum: a031d6ce0d077d46a47424eb367708c426ef3d5a85e06eace273cb1fa9823fd3c5f8b6af7f1f4715474b5f98b7fdfa650b72d97e2742f16ff27006dc0a136d8a
+  languageName: node
+  linkType: hard
+
+"prettier@npm:^2.7.1":
   version: 2.7.1
   resolution: "prettier@npm:2.7.1"
   bin:
@@ -4069,7 +4078,7 @@ __metadata:
     husky: ^7.0.4
     lint-staged: ^16.1.5
     nodemon: 2.0.20
-    prettier: 2.7.1
+    prettier: 3.9.10
     pretty-quick: ^3.1.3
     standard-version: ^9.3.2
     typescript: ^4.8.3
